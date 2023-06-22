@@ -1,0 +1,27 @@
+         Exercício:
+Utilizando o for no jogo e novas funcionalidades
+
+Para casa. Entrega código no github até às 19h do dia 26/06. 
+Valendo nota de participação. Grupos de 1 a 6 pessoas, escolha livre.
+● Substitua o comando while pelo comando for.
+● Escolha um número secreto entre 0 e 100.
+● Crie um nível de dificuldade para o jogo. Peça para o usuário escolher em 
+qual nível ele deseja jogar. O nível é mensurado de acordo com as 
+tentativas.
+● Acrescente um sistema de pontuação. O jogador deve começar com 1000 
+pontos e cada chute errado deve ser subtraído do total de pontos um valor 
+que corresponde a diferença entre o chute e o número secreto. (dica, 
+pesquise sobre a função abs(), ela pode ser útil)
+
+  Atividades para casa.
+
+Entrega junto com o jogo da adivinhação
+
+Dada a lista = [13, -3, 5, 9, 19, 46, 79, 37, -18, 3, 13, 7, 4, 4, -42], faça um 
+programa que:
+● Imprima o maior elemento
+● Imprima o menor elemento
+● imprima os números pares
+● imprima o número de ocorrências do primeiro elemento da lista
+● imprima a média dos elementos
+● imprima a soma dos elementos de valor negativo
