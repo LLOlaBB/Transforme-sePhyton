@@ -3,8 +3,6 @@
 
 #Cristiane Giglio Lamas
 
-#Israel Moreira Souza
-
 #Laura Barros
 
 #Marcelina Lima
